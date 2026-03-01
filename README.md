@@ -24,3 +24,6 @@ This project implements a complete end-to-end simulation of the BB84 Quantum Key
 
 ```bash
 python main.py
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f858fb63-649b-4059-af2f-0082862bdcb3" />
+
